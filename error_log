@@ -1,0 +1,6 @@
+[11-Aug-2018 00:47:20] PHP Warning:  require_once(Connections/registrosvictor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/esangrou/public_html/tatc/admin/index.php on line 1
+[11-Aug-2018 00:47:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Connections/registrosvictor.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/esangrou/public_html/tatc/admin/index.php on line 1
+[11-Aug-2018 00:47:51] PHP Warning:  require_once(Connections/registrosvictor.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/esangrou/public_html/tatc/admin/index.php on line 1
+[11-Aug-2018 00:47:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Connections/registrosvictor.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/esangrou/public_html/tatc/admin/index.php on line 1
+[11-Aug-2018 01:02:22] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home2/esangrou/public_html/tatc/admin/index.php on line 76
+[11-Aug-2018 01:02:27] PHP Parse error:  syntax error, unexpected '[', expecting '(' in /home2/esangrou/public_html/tatc/admin/index.php on line 76
